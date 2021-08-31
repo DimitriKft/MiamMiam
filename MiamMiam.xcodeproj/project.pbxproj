@@ -14,6 +14,7 @@
 		277C281526DE30ED002A68A6 /* RecipesViiew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C281426DE30ED002A68A6 /* RecipesViiew.swift */; };
 		277C281826DE3108002A68A6 /* BasketsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C281726DE3108002A68A6 /* BasketsView.swift */; };
 		277C281B26DE3120002A68A6 /* SelectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C281A26DE3120002A68A6 /* SelectsView.swift */; };
+		277C281E26DE64AB002A68A6 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C281D26DE64AB002A68A6 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		277C281426DE30ED002A68A6 /* RecipesViiew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipesViiew.swift; sourceTree = "<group>"; };
 		277C281726DE3108002A68A6 /* BasketsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasketsView.swift; sourceTree = "<group>"; };
 		277C281A26DE3120002A68A6 /* SelectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectsView.swift; sourceTree = "<group>"; };
+		277C281D26DE64AB002A68A6 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				277C281426DE30ED002A68A6 /* RecipesViiew.swift */,
 				277C281726DE3108002A68A6 /* BasketsView.swift */,
 				277C281A26DE3120002A68A6 /* SelectsView.swift */,
+				277C281D26DE64AB002A68A6 /* HomeView.swift */,
 			);
 			path = MiamMiam;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 				277C281B26DE3120002A68A6 /* SelectsView.swift in Sources */,
 				277C281826DE3108002A68A6 /* BasketsView.swift in Sources */,
 				277C280726DD6516002A68A6 /* ContentView.swift in Sources */,
+				277C281E26DE64AB002A68A6 /* HomeView.swift in Sources */,
 				277C281526DE30ED002A68A6 /* RecipesViiew.swift in Sources */,
 				277C280526DD6516002A68A6 /* MiamMiamApp.swift in Sources */,
 			);
