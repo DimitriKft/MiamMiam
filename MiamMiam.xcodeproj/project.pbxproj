@@ -11,6 +11,9 @@
 		277C280726DD6516002A68A6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C280626DD6516002A68A6 /* ContentView.swift */; };
 		277C280926DD651C002A68A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 277C280826DD651C002A68A6 /* Assets.xcassets */; };
 		277C280C26DD651C002A68A6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 277C280B26DD651C002A68A6 /* Preview Assets.xcassets */; };
+		277C281526DE30ED002A68A6 /* RecipesViiew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C281426DE30ED002A68A6 /* RecipesViiew.swift */; };
+		277C281826DE3108002A68A6 /* BasketsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C281726DE3108002A68A6 /* BasketsView.swift */; };
+		277C281B26DE3120002A68A6 /* SelectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C281A26DE3120002A68A6 /* SelectsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +23,9 @@
 		277C280826DD651C002A68A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		277C280B26DD651C002A68A6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		277C280D26DD651C002A68A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		277C281426DE30ED002A68A6 /* RecipesViiew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipesViiew.swift; sourceTree = "<group>"; };
+		277C281726DE3108002A68A6 /* BasketsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasketsView.swift; sourceTree = "<group>"; };
+		277C281A26DE3120002A68A6 /* SelectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +63,9 @@
 				277C280826DD651C002A68A6 /* Assets.xcassets */,
 				277C280D26DD651C002A68A6 /* Info.plist */,
 				277C280A26DD651C002A68A6 /* Preview Content */,
+				277C281426DE30ED002A68A6 /* RecipesViiew.swift */,
+				277C281726DE3108002A68A6 /* BasketsView.swift */,
+				277C281A26DE3120002A68A6 /* SelectsView.swift */,
 			);
 			path = MiamMiam;
 			sourceTree = "<group>";
@@ -138,7 +147,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				277C281B26DE3120002A68A6 /* SelectsView.swift in Sources */,
+				277C281826DE3108002A68A6 /* BasketsView.swift in Sources */,
 				277C280726DD6516002A68A6 /* ContentView.swift in Sources */,
+				277C281526DE30ED002A68A6 /* RecipesViiew.swift in Sources */,
 				277C280526DD6516002A68A6 /* MiamMiamApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
